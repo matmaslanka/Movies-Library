@@ -50,6 +50,6 @@ while user_choice != "q":
     elif user_choice == 's':
         search()
     elif user_choice == 'q':
-        print('Bye')
+        print('Bye bye!')
     else:
         print("Unknown command!")
